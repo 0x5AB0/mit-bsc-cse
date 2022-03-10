@@ -16,6 +16,7 @@ This subject offers an interactive introduction to discrete mathematics oriented
 1. Fundamental concepts of mathematics: Definitions, proofs, sets, functions, relations.
 2. Discrete structures: graphs, state machines, modular arithmetic, counting.
 3. Discrete probability theory.
+
 On completion of 6.042J, students will be able to explain and apply the basic methods of discrete (noncontinuous) mathematics in computer science. They will be able to use these methods in subsequent courses in the design and analysis of algorithms, computability theory, software engineering, and computer systems.
 ## Foundation subjects
 Foundation subjects build on introductory material.
@@ -44,7 +45,7 @@ This course provides a challenging introduction to some of the central ideas of 
 
 An alternative to this course is [6.046 Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/).
 ## Communication-intensive subject
-### [6.UAR Seminar in Undergraduate Advanced Research](https://ocw.mit.edu/courses/sloan-school-of-management/15-347-doctoral-seminar-in-research-methods-i-fall-2004/)
+#### [6.UAR Seminar in Undergraduate Advanced Research](https://ocw.mit.edu/courses/sloan-school-of-management/15-347-doctoral-seminar-in-research-methods-i-fall-2004/)
 This course is designed to lay the foundations of good empirical research in the social sciences. It does not deal with specific techniques per se, but rather with the assumptions and the logic underlying social research. Students become acquainted with a variety of approaches to research design, and are helped to develop their own research projects and to evaluate the products of empirical research.
 
 6.UAR is not available on OpenCourseWare, so 15.347 Doctoral Seminar in Research Methods I is linked instead, as it covers the same material in breadth and depth.
