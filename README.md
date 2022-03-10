@@ -48,10 +48,11 @@ Two from [AUS](https://eecsis.mit.edu/degree_requirements.html#AUS2) list.
 One additional from [EECS](https://eecsis.mit.edu/degree_requirements.html#EECS) list.
 At least one of the required subjects must be from the [II](https://eecsis.mit.edu/degree_requirements.html#II) list.
 # Roadmap
-- Semester 1: Programming skills + Discrete math
-- Semester 2: Introduction to EECS + Foundation #1
-- Semester 3: Foundation #2 + Foundation #3
-- Semester 4: Header #1 + Header #2
-- Semester 5: Header #3 + Header #4
-- Semester 6: AUS #1 + AUS #2
+- **Semester 1:** Programming skills + Discrete math
+- **Semester 2:** Introduction to EECS + Foundation #1
+- **Semester 3:** Foundation #2 + Foundation #3
+- **Semester 4:** Header #1 + Header #2
+- **Semester 5:** Header #3 + Header #4
+- **Semester 6:** AUS #1 + AUS #2
+
 6.UAR and the Course 6 elective are typically taken at some point during semesters 4-6.
